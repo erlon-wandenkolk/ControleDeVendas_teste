@@ -20,7 +20,7 @@ Este é um protótipo para ajudar a controlar as principais operações da sua l
 como cadastro de clientes, produtos e controle de caixa.
 
 **👈 Utilize o menu na barra lateral para navegar entre as diferentes funcionalidades.**
-)
+""")
 
 # --- Rodapé (opcional) ---
 st.markdown("---")
